@@ -1,0 +1,14 @@
+C:\Users\Eren\source\repos\LinklabelVScroll\LinklabelVScroll\bin\Debug\LinklabelVScroll.exe.config
+C:\Users\Eren\source\repos\LinklabelVScroll\LinklabelVScroll\bin\Debug\LinklabelVScroll.exe
+C:\Users\Eren\source\repos\LinklabelVScroll\LinklabelVScroll\bin\Debug\LinklabelVScroll.pdb
+C:\Users\Eren\source\repos\LinklabelVScroll\LinklabelVScroll\obj\Debug\LinklabelVScroll.Form1.resources
+C:\Users\Eren\source\repos\LinklabelVScroll\LinklabelVScroll\obj\Debug\LinklabelVScroll.Properties.Resources.resources
+C:\Users\Eren\source\repos\LinklabelVScroll\LinklabelVScroll\obj\Debug\LinklabelVScroll.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\LinklabelVScroll\LinklabelVScroll\obj\Debug\LinklabelVScroll.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\LinklabelVScroll\LinklabelVScroll\obj\Debug\LinklabelVScroll.exe
+C:\Users\Eren\source\repos\LinklabelVScroll\LinklabelVScroll\obj\Debug\LinklabelVScroll.pdb
+C:\Users\Eren\source\repos\LinklabelVScroll\LinklabelVScroll\obj\Debug\LinklabelVScroll.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\LinklabelVScroll\LinklabelVScroll\obj\Debug\LinklabelVScroll.Soru1.resources
+C:\Users\Eren\source\repos\LinklabelVScroll\LinklabelVScroll\obj\Debug\LinklabelVScroll.Soru2.resources
+C:\Users\Eren\source\repos\LinklabelVScroll\LinklabelVScroll\obj\Debug\LinklabelVScroll.Soru3.resources
+C:\Users\Eren\source\repos\LinklabelVScroll\LinklabelVScroll\obj\Debug\LinklabelVScroll.Soru4.resources
